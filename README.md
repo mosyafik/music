@@ -1,2 +1,1 @@
-# uptimerobot
-Optional
+# uptime buat bot
